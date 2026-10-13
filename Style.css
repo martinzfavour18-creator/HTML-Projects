@@ -1,0 +1,38 @@
+.pricing-cards {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Tahoma', Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    color:black;
+    margin-bottom: 10px;
+}
+
+.card {
+    background-color:rgb(254, 219, 225);
+    width: 250px;
+    padding: 20px;
+    margin: 15px;
+    height: 350px;
+    border: 1px solid hotpink;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px white;
+    display: inline-block;
+    vertical-align:top;
+}
+
+.order-button {
+    background-color: hotpink;
+    color: white;
+    width: 90px;
+    height: 30px;
+    margin:10px
+}
+
+.intro {
+    text-align: center;
+    display: block;
+}
